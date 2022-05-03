@@ -22,6 +22,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>CirculoControllerServlet</servlet-name>
-    <url-pattern>/CirculoControllerServlet</url-pattern>
+    <url-pattern>/calculo-circulo</url-pattern>
   </servlet-mapping>
 </web-app>
